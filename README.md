@@ -20,10 +20,5 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ronny-pozo-armijos/" target="blank"><img align="center"
-Lenguajes y herramientas
-
-:
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" ancho="40" alto="40"/> </a> <a href="https://www.photoshop.com/es" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" ancho="40" alto="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" ancho="40" alto="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnypozoarmijos-stack&show_icons=true&locale=es&layout=compact" alt="ronnypozoarmijos-stack" /></p>
+<a href="https://linkedin.com/in/ronny-pozo-armijos" target="blank"><img align="center" Lenguajes
+y herramientas : src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" ancho="40" alto="40"/> </a> <a href="https://www.photoshop.com/es" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" ancho="40" alto="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnypozoarmijos-stack&show_icons=true&locale=es&layout=compact" alt="ronnypozoarmijos-stack" /></p>
