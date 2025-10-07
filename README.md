@@ -67,4 +67,4 @@
 
 ---
 
-✨ _“La disciplina supera al talento, cuando el talento no tiene disciplina.”_  
+<h3 align="center">✨ _“La disciplina supera al talento, cuando el talento no tiene disciplina.”_  
