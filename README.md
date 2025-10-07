@@ -1,17 +1,19 @@
 <h1 align="center">Hola 👋, soy Ronny Pozo Armijos</h1>
-<h3 align="center">Un apasionado de los negocios y los datos de Ecuador</h3>
+<h3 align="center">Transformando datos en decisiones estratégicas para negocios en Ecuador.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronnypozoarmijos-stack&label=Profile%20views&color=0e75b6&style=flat" alt="ronnypozoarmijos-stack" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronnypozoarmijos-stack" alt="ronnypozoarmijos-stack" /></a> </p>
 
-- 🔭 Actualmente trabajando en **Dashboards de ventas y análisis de datos**, optimizando la visualización y toma de decisiones.  
+### 🚀 Sobre mí 
 
-- 🌱 Aprendiendo continuamente **Python, Power BI, SQL** y otras herramientas de **Business Intelligence** para fortalecer mis habilidades analíticas.  
+- 💼 Actualmente trabajando en **Dashboards de ventas y análisis de datos**, optimizando la visualización y toma de decisiones.  
 
-- 👯 Busco colaborar en **proyectos de análisis de datos, Power BI y optimización logística**, aportando valor a través de insights accionables.  
+- 📊 Aprendiendo continuamente **Python, Power BI, SQL** y otras herramientas de **Business Intelligence** para fortalecer mis habilidades analíticas.  
 
-- 🤝 Interesado en recibir apoyo para **Python y automatizaciones en Excel**, con el objetivo de mejorar procesos y eficiencia.  
+- 🤝 Busco colaborar en **proyectos de análisis de datos, Power BI y optimización logística**, aportando valor a través de insights accionables.  
+
+- 🧠 Interesado en recibir apoyo para **Python y automatizaciones en Excel**, con el objetivo de mejorar procesos y eficiencia.  
 
 - 💬 Pregúntame sobre **logística, Administración, Gestión de inventarios, SQL, Power BI y Excel**.  
 
