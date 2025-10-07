@@ -18,7 +18,30 @@
 - 📫 Contáctame en **[ronnypozo2021armijos@gmail.com](mailto:ronnypozo2021armijos@gmail.com)** para colaboraciones o consultas profesionales.
 
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">🤝 Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ronny-pozo-armijos" target="blank"><img align="center" Lenguajes
-y herramientas : src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" ancho="40" alto="40"/> </a> <a href="https://www.photoshop.com/es" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" ancho="40" alto="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnypozoarmijos-stack&show_icons=true&locale=es&layout=compact" alt="ronnypozoarmijos-stack" /></p>
+  <a href="https://www.linkedin.com/in/ronny-pozo-armijos/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Ronny Pozo Armijos"/>
+  </a>
+</p>
+
+---
+
+<h3 align="left">💻 Lenguajes y herramientas:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel Avanzado" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  </a>
+</p>
