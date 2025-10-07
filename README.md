@@ -11,9 +11,9 @@
 
 - 👯 Busco colaborar en **proyectos de análisis de datos, Power BI y optimización logística**, aportando valor a través de insights accionables.  
 
-- 🤝 Interesado en recibir apoyo para **Python avanzado y automatizaciones en Excel**, con el objetivo de mejorar procesos y eficiencia.  
+- 🤝 Interesado en recibir apoyo para **Python y automatizaciones en Excel**, con el objetivo de mejorar procesos y eficiencia.  
 
-- 💬 Pregúntame sobre **logística, Administración, Gestión de inventarios, SQL, Power BI y Excel avanzado**.  
+- 💬 Pregúntame sobre **logística, Administración, Gestión de inventarios, SQL, Power BI y Excel**.  
 
 - 📫 Contáctame en **[ronnypozo2021armijos@gmail.com](mailto:ronnypozo2021armijos@gmail.com)** para colaboraciones o consultas profesionales.
 
@@ -22,6 +22,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ronny-pozo-armijos/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Ronny Pozo Armijos"/>
+  </a>
+  <a href="https://www.instagram.com/ronnyarmijos18/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Ronny Armijos"/>
   </a>
 </p>
 
@@ -45,3 +48,23 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+<h3 align="left">📊 Mis estadísticas de GitHub:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronnypozoarmijos-stack&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub Ronny Pozo Armijos"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronnypozoarmijos-stack&theme=tokyonight" alt="Racha de contribuciones"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnypozoarmijos-stack&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
+</p>
+
+---
+
+✨ _“La disciplina supera al talento, cuando el talento no tiene disciplina.”_  
