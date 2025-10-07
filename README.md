@@ -65,6 +65,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnypozoarmijos-
 </p>
 
----
+<h3 align="center">🌍 Idiomas</h3>
+<p align="center">
+  <b>Español:</b> Nativo 🇪🇨 <br>
+  <b>Inglés:</b> Básico 🇺🇸
+</p>
 
-<h3 align="center">✨ _“La disciplina supera al talento, cuando el talento no tiene disciplina.”_  
+----
+
+<h3 align="center">✨ “La disciplina supera al talento, cuando el talento no tiene disciplina.”
